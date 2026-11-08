@@ -1,0 +1,23 @@
+# .venv & cache Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Kredensial / environment lokal
+.env
+.env.*
